@@ -1,0 +1,8 @@
+C:\Users\Archimed\source\repos\polymorphisme\obj\Debug\polymorphisme.csproj.AssemblyReference.cache
+C:\Users\Archimed\source\repos\polymorphisme\obj\Debug\polymorphisme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Archimed\source\repos\polymorphisme\obj\Debug\polymorphisme.csproj.CoreCompileInputs.cache
+C:\Users\Archimed\source\repos\polymorphisme\bin\Debug\polymorphisme.exe.config
+C:\Users\Archimed\source\repos\polymorphisme\bin\Debug\polymorphisme.exe
+C:\Users\Archimed\source\repos\polymorphisme\bin\Debug\polymorphisme.pdb
+C:\Users\Archimed\source\repos\polymorphisme\obj\Debug\polymorphisme.exe
+C:\Users\Archimed\source\repos\polymorphisme\obj\Debug\polymorphisme.pdb
